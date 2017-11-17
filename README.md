@@ -1,6 +1,7 @@
 # TabsmithApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.3.
+The list of features is in Google Docs(https://docs.google.com/document/d/1UjszwPahbXK5M7kB3MUaLDkB-NkBRlVJZoI4r6U2HIc/edit#)
 
 ## Development server
 
